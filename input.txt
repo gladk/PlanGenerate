@@ -1,0 +1,8 @@
+#Title          Mathematik
+#Class          5a
+#Schedule       1ab 2ab 3ab 4ab 5ab
+#StartYearWeek  2014.09.01
+#EndYearWeek    2015.07.13
+#
+#Holidays
+
