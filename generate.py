@@ -137,4 +137,4 @@ for i in range(len(createdCal)):
         WeekN, WeekAB, createdCal[i], FreeDay, DayOfWeek(createdCal[i].isocalendar()[2]),
         Hrs, createdCalNames[i])
 
-file(sys.argv[1]+'.gen','w').write(outputGenCalendar)
+file(sys.argv[1]+'.gencalendar','w').write(outputGenCalendar)
