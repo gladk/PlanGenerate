@@ -57,10 +57,11 @@ for i in range(7, len(lines)):
         
         curDateH = StartHol
         incrDate = datetime.timedelta(days=1)
-        while (curDateH <> EndHol):
-            curDateH += incrDate
+        while (curDateH <= EndHol):
             FreeDaysDate.append(curDateH)
             FreeDaysName.append(HolidayName)
+            curDateH += incrDate
+            
     elif ((lines[i])[10:].strip()==''):
         continue
     else:
@@ -69,10 +70,24 @@ for i in range(7, len(lines)):
         HolidayName = (lines[i])[10:].strip()
         FreeDaysDate.append(DateHol)
         FreeDaysName.append(HolidayName)
-    #print "%s is added" %(HolidayName)
-
+    
 #=====================
-
+# Load topics
+infileTopics = open(sys.argv[2],"r")
+linesTopics = infileTopics.readlines()
+infileTopics.close()
+topics = []
+topicsCommon = []
+for i in range(len(linesTopics)):
+    lineStrip = linesTopics[i].strip()
+    if (len(lineStrip.split('|'))>1):
+        topics.append((lineStrip.split('|'))[0].strip())
+        topicsCommon.append((lineStrip.split('|'))[1].strip())
+    else:
+        topics.append(lineStrip.strip())
+        topicsCommon.append("")
+#=====================
+# Create calendar
 curDate = StartDate
 incrDate = datetime.timedelta(days=1)
 weekAB = 'a'
@@ -94,6 +109,7 @@ for i in range((EndDate-StartDate).days):
     curDate = curDate+incrDate
 
 #=====================
+# Create names of free days
 
 createdCalNames = [""]*len(createdCal)
 for i in range(len(createdCal)):
@@ -107,20 +123,36 @@ for i in range(len(createdCal)):
                     FerienN+="; " + FreeDaysName[z]
         createdCalNames[i] = FerienN
 
-"""
-for i in range(len(createdCal)):
-    print "%s - %s" % (createdCal[i], createdCalNames[i])
-"""
+
+#=====================
+# Output
+
 outputGenCalendar = ""
 for i in range(6):
     outputGenCalendar+=lines[i]
 
 outputGenCalendar+="N;\tWeek;\tWeekAB;\tDate;\tFreeDay;\tDoW;\tHrs;\tTopic\n" 
+outputTEX='\lhead{%s %sKl, 2014/2015}\n\
+\cfoot{}\n\
+\n\
+\\begin{document}\n\
+  \\begin{longtabu} to \linewidth {|l|l|X|l|}\n\
+    \\rowfont\\bfseries \n\
+    \hline\n\
+      Wo. & Datum & Thema des Unterrichtes   &  Hrs  \\\\ \n\
+    \hline\n\
+    \hline\n\
+    \endhead\n'%(Title, Class)
 
+topicId = 0
 WeekN = 1
 WeekAB = 'a'
 Hrs = 0
 for i in range(len(createdCal)):
+    if ((topicId<len(topics)) and (topicsCommon[topicId]<>"")):
+        outputTEX+="\multicolumn{3}{|c|}{%s} & %s \\\\ \n\
+    \hline\n"%(topics[topicId], topicsCommon[topicId])
+        topicId+=1
     if (i<>0 and createdCal[i].isocalendar()[1] <> createdCal[i-1].isocalendar()[1]):
         WeekN+=1
         if (WeekAB=='a'):
@@ -136,5 +168,19 @@ for i in range(len(createdCal)):
     outputGenCalendar+="%d;\t%d;\t%s;\t%s;\t%s;\t%s;\t%d;\t%s;\t;\n"%(i+1,
         WeekN, WeekAB, createdCal[i], FreeDay, DayOfWeek(createdCal[i].isocalendar()[2]),
         Hrs, createdCalNames[i])
+    
+    
+    if (createdCalNames[i]<>""):
+        outputTEX+="%s%s & %s, %s & \cellcolor{blue!15} %s & - \\\\ \n    \hline\n    "%(
+            WeekN,WeekAB,createdCal[i],DayOfWeek(createdCal[i].isocalendar()[2]),createdCalNames[i])
+    elif (topicId<len(topics) and createdCalNames[i]==""):
+        outputTEX+="%s%s & %s, %s & %s & %d \\\\ \n    \hline\n    "%(
+            WeekN,WeekAB,createdCal[i],DayOfWeek(createdCal[i].isocalendar()[2]),topics[topicId],Hrs)
+        topicId+=1
+     
+
+outputTEX+="\end{longtabu}\n\
+\end{document}"
 
 file(sys.argv[1]+'.gencalendar','w').write(outputGenCalendar)
+file(sys.argv[1]+'.tex','w').write(outputTEX)
