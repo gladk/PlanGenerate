@@ -133,7 +133,6 @@ for i in range(6):
 
 outputGenCalendar+="N;\tWeek;\tWeekAB;\tDate;\tFreeDay;\tDoW;\tHrs;\tTopic\n" 
 outputTEX='\lhead{%s %sKl, 2014/2015}\n\
-\cfoot{}\n\
 \n\
 \\begin{document}\n\
   \\begin{longtabu} to \linewidth {|l|l|X|l|}\n\
