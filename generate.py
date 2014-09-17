@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import os, datetime, sys
+import os, datetime, sys, subprocess
 
 infile = open(sys.argv[1],"r")
 lines = infile.readlines()
@@ -211,3 +211,7 @@ outputTEX+="\end{longtabu}\n\
 
 file(sys.argv[1]+'.gencalendar','w').write(outputGenCalendar)
 file(sys.argv[1]+'.tex','w').write(outputTEX)
+
+os.system('xelatex ' + sys.argv[1]+'.tex')
+os.system('xelatex ' + sys.argv[1]+'.tex')
+subprocess.Popen(['evince', sys.argv[1]+'.pdf'])
