@@ -1,0 +1,71 @@
+#Title          Mathematik
+#Class          8
+#Schedule       1ab 3ab 5ab 5ab
+#StartYearWeek  2014.09.01
+#EndYearWeek    2015.07.13
+#
+#Holidays
+2014.09.01  Keine Unterrichten
+2014.10.03  Tag der Deutschen Einheit
+2014.10.20  Herbstferien
+2014.10.31
+2014.10.31  Reformationstag
+2014.11.19  Buß- und Bettag
+2014.12.22  Weihnachtsferien
+2015.01.02
+2014.12.25  1. Weihnachtstag
+2014.12.26  2. Weihnachtstag
+2015.01.01  Neujahr
+2015.02.09  Winterferien
+2015.02.20  
+2015.04.02  Osterferien
+2015.04.10
+2015.04.03  Karfreitag
+2015.04.06  Ostermontag
+2015.05.01  Tag der Arbeit
+2015.05.14  Christi Himmelfahrt
+2015.05.15  Pfingstferien
+2015.05.25  Pfingstmontag
+
+Lernbereich 1: Wirtschaftliches Rechnen|24. 
+Einführung. Wiederholung: Prozentbegriff und Prozentrechnung.
+Berechnen des Prozentwertes
+Berechnen des Grundwertes
+Berechnen des Prozentsatzes
+Prozentuale Veränderung. Vermehrung. LK
+Prozentuale Veränderung. Verminderung
+Prozentuale Veränderung
+Berechnen des Prozentsatzes
+Prozentrechnung. Prozentuale Veränderung
+Vermischte Übungen zur Prozentrechnung
+LK. Prozentuale Veränderung
+Berechnen der Jahreszinsen
+Berechnen der Jahreszinsen
+Berechnen des Kapitals und des Zinssatzes
+Berechnen des Kapitals und des Zinssatzes
+Berechnung von Tageszinsen
+Berechnung von Tageszinsen
+LK. Zinsen
+Vergleichen Verschiedener Sparformen
+Vergleichen Verschiedener Sparformen
+Vermischte Übungen zur Zinsrechnung
+Vermischte Übungen zur Zinsrechnung
+Vorbereitung zur Klassenarbeit
+KA. Wirtschaftliches Rechnen
+Lernbereich 2: Formeln und Gleichungen|16 
+Aufstellen von Termen – Berechnen von Termwerten
+Struktur von Termen
+Lösen von Gleichungen. Umformungsregeln – Anwendung
+Lösen von Gleichungen. Umformungsregeln – Anwendung
+Anwenden der Umformungsregeln auf Gl der Form ax+b=c
+Anwenden der Umformungsregeln auf Gl der Form ax+b=c
+Übungen
+LK. Anwenden der Umformungsregeln 
+Umstellen von Formeln
+Umstellen von Formeln
+Umstellen von Formeln
+Umstellen von Formeln
+Vermischte Übungen
+Vermischte Übungen
+Vorbereitung zur Klassenarbeit
+KA. Formel und Gleichungen

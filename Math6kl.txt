@@ -1,0 +1,73 @@
+#Title          Mathematik
+#Class          6
+#Schedule       2ab 3ab 3ab 4ab 5ab
+#StartYearWeek  2014.09.01
+#EndYearWeek    2015.07.13
+#
+#Holidays
+2014.09.01  Keine Unterrichten
+2014.10.03  Tag der Deutschen Einheit
+2014.10.20  Herbstferien
+2014.10.31
+2014.10.31  Reformationstag
+2014.11.19  Buß- und Bettag
+2014.12.22  Weihnachtsferien
+2015.01.02
+2014.12.25  1. Weihnachtstag
+2014.12.26  2. Weihnachtstag
+2015.01.01  Neujahr
+2015.02.09  Winterferien
+2015.02.20  
+2015.04.02  Osterferien
+2015.04.10
+2015.04.03  Karfreitag
+2015.04.06  Ostermontag
+2015.05.01  Tag der Arbeit
+2015.05.14  Christi Himmelfahrt
+2015.05.15  Pfingstferien
+2015.05.25  Pfingstmontag
+
+Einführung
+Darstellen von Brüchen         
+Vergleichen und Runden von Dezimalbrüchen
+Addieren und Subtrachieren von Dezimalbrüchen
+Multeplizieren und Dividieren von Dezimalbrüchen
+Vervielfachenmit und Teilen durch natürlichen Zahlen
+LK.Gemeine- und Dezimalbrüche. Wiederholung
+LB 1 Gebrochene Zahlen|35
+Begriff der gebrochenen Zahl
+Kürzen und Erweitern von Brüchen
+Kürzen und Erweitern von Brüchen
+Gröste gemeinsamer Teiler (ggT) Primfatorzerlegung
+Kleinstes gemeinsames Vielfaches durch Primfaktorzerlegung
+Kleinstes gemeinsames Vielfaches durch Primfaktorzerlegung
+Gleichnamigmachen von Brüchen
+Gleichnamigmachen von Brüchen
+Vergleichen und Ordnen Ungleichnamiger Brüche
+Vergleichen und Ordnen Ungleichnamiger Brüche
+Vergleichen und Ordnen Ungleichnamiger Brüche
+LK.Vergleichen und Ordnen ungleichnamiger Brüche 
+Addieren und Subtrachieren ungleichnamiger Brüche
+Addieren und Subtrachieren ungleichnamiger Brüche
+Addieren und Subtrachieren ungleichnamiger Brüche
+Multiplizieren von Brüchen
+Multiplizieren von Brüchen
+Dividieren von Brüchen
+Dividieren von Brüchen
+Verhältnisgleihung
+Multiplizieren und Dividieren von Brüchen
+Vorbereitung zu KA.
+KA.Brüche
+Multiplizieren und Dividieren von Dezimalbrüchen
+Multiplizieren und Dividieren von Dezimalbrüchen
+Multiplizieren und Dividieren von Dezimalbrüchen
+Wahlpflicht. Mathematische Spiele
+Rechengesetze
+Rechengesetze
+Gemischte Aufgaben
+Gemischte Aufgaben
+Gemischte Aufgaben
+LK. Dezimalbrüche
+Wahlpflicht. Mathematische Spiele
+Umwandlung gemeiner Brüche in Dezimalbrüche und umgekehrt
+LB 2. Zuordnungen in der Umwelt|25

@@ -134,7 +134,7 @@ for i in range(6):
 
 outputGenCalendar+="N;\tWeek;\tWeekAB;\tDate;\tFreeDay;\tDoW;\tHrs;\tTopic\n" 
 outputTEX='\n\
-\documentclass[DIV15, 14pt,a4paper]{scrartcl}\n\
+\documentclass[DIV15, 12pt,a4paper]{scrartcl}\n\
 \usepackage{xltxtra}\n\
 \usepackage{fontenc}\n\
 \n\
@@ -166,7 +166,7 @@ outputTEX='\n\
   \\begin{longtabu} to \linewidth {|l|l|X|l|}\n\
     \\rowfont\\bfseries \n\
     \hline\n\
-      Wo. & Datum & Thema des Unterrichtes   &  Hrs  \\\\ \n\
+      Wo. & Datum & Thema des Unterrichtes   &  Std.  \\\\ \n\
     \hline\n\
     \hline\n\
     \endhead\n'%(Title, Class)
@@ -177,7 +177,7 @@ WeekAB = 'a'
 Hrs = 0
 for i in range(len(createdCal)):
     if ((topicId<len(topics)) and (topicsCommon[topicId]<>"")):
-        outputTEX+="\multicolumn{3}{|c|}{%s} & %s \\\\ \n\
+        outputTEX+="\multicolumn{3}{|c|}{\\textbf{%s}} & \\textbf{%s} \\\\ \n\
     \hline\n"%(topics[topicId], topicsCommon[topicId])
         topicId+=1
     if (i<>0 and createdCal[i].isocalendar()[1] <> createdCal[i-1].isocalendar()[1]):
@@ -198,18 +198,18 @@ for i in range(len(createdCal)):
     
     
     if (createdCalNames[i]<>""):
-        outputTEX+="%s%s & %s, %s & \cellcolor{blue!15} %s & - \\\\ \n    \hline\n    "%(
-            WeekN,WeekAB,createdCal[i],DayOfWeek(createdCal[i].isocalendar()[2]),createdCalNames[i])
+        outputTEX+="%s%s & \cellcolor{blue!15}%d/%d/%d, %s & \cellcolor{blue!15}%s & - \\\\ \n    \hline\n    "%(
+            WeekN,WeekAB,createdCal[i].day,createdCal[i].month,createdCal[i].year,DayOfWeek(createdCal[i].isocalendar()[2]),createdCalNames[i])
     elif (topicId<len(topics) and createdCalNames[i]==""):
-        outputTEX+="%s%s & %s, %s & %s & %d \\\\ \n    \hline\n    "%(
-            WeekN,WeekAB,createdCal[i],DayOfWeek(createdCal[i].isocalendar()[2]),topics[topicId],Hrs)
+        outputTEX+="%s%s & %d/%d/%d, %s & %s & %d \\\\ \n    \hline\n    "%(
+            WeekN,WeekAB,createdCal[i].day,createdCal[i].month,createdCal[i].year,DayOfWeek(createdCal[i].isocalendar()[2]),topics[topicId],Hrs)
         topicId+=1
      
 
 outputTEX+="\end{longtabu}\n\
 \end{document}"
 
-file(sys.argv[1]+'.gencalendar','w').write(outputGenCalendar)
+#file(sys.argv[1]+'.gencalendar','w').write(outputGenCalendar)
 file(sys.argv[1]+'.tex','w').write(outputTEX)
 
 os.system('xelatex ' + sys.argv[1]+'.tex')
