@@ -1,0 +1,105 @@
+#Title          Physik
+#Class          6
+#Schedule       4ab 5ab
+#StartYearWeek  2014.09.01
+#EndYearWeek    2015.07.13
+#
+#Holidays
+2014.09.01  Unterrichtsfreier Tag
+2014.10.03  Tag der Deutschen Einheit
+2014.10.20  Herbstferien
+2014.10.31
+2014.10.31  Reformationstag
+2014.11.19  Buß- und Bettag
+2014.12.22  Weihnachtsferien
+2015.01.02
+2014.12.25  1. Weihnachtstag
+2014.12.26  2. Weihnachtstag
+2015.01.01  Neujahr
+2015.02.09  Winterferien
+2015.02.20  
+2015.04.02  Osterferien
+2015.04.10
+2015.04.03  Karfreitag
+2015.04.06  Ostermontag
+2015.05.01  Tag der Arbeit
+2015.05.14  Christi Himmelfahrt
+2015.05.15  Pfingstferien
+2015.05.25  Pfingstmontag
+
+Einführung; Belehrung; AM 
+Physik -- was ist das? 
+Das Experiment 
+LB 1; Lichtquellen und beleuchtete Körper|18
+Ausbreitungseigenschaften des Lichtes
+Schatten 
+Kern- und Halbschatten mit SE 
+Übungen zu Ausbreitungseigenschaften 
+KK -- Einführung Reflexion 
+SE zum Reflexionsgesetz 
+Zeichnen von Strahlenverläufen 
+Anwendungen zur Reflexion (mit Spiegeln zaubern,...)
+Reflexion am Hohlspiegel 
+Reflexion am Wölbspiegel 
+KK -- Einführung Brechung 
+SE zum Brechungsgesetz 
+Anwendungen zur Brechung (auch auf Phänomene des Alltages)
+Strahlenverlauf am Prisma 
+Vorbereitung Klassenarbeit 
+1.Kiassenarbeit 
+Bilder an Sammellinsen 
+SE zur Bildentstehung an Sammellinsen 
+Bildentstehung mit Hilfe der Hauptstrahlen
+Bildentstehung mit Hilfe der Hauptstrahlen
+Das virtuelle Bild an der Sammellinse 
+KK - Bildentstehung beim Fotoapparat, Projektor  - Bildentstehung am Auge 
+Sehfehler 
+Aufbau des Sonnensystems 
+Mondphasen 
+FVU 
+FVU 
+Finsternisse 
+Vorbereitung Klassenarbeit 
+2. Klassenarbeit 
+LB 2; Körper und Stoff|14
+Physikalische Größe Volumen 
+Volumenbestimmung regelmäßiger Körper mit SE
+Volumenbestimmung von Flüssigkeiten mit SE
+Volumenbestimmung unregelmäßiger Körper mit SE
+Die physikalische Größe Masse 
+SE Massebestimmung fester und flüssiger Körper
+Die physikalische Größe Dichte 
+Anwendungen zur Dichte; auch Masseberechnunge  - SE Dichte 
+LK, Bewegungen von Körpern 
+Die physikalische Größe Geschwindigkeit
+Gleichförmige Bewegung (Zusammenhänge s, t und  v)
+s-t-Diagramm 
+Inhaltliches Lösen von Aufgaben an Beispielen Straßenverkehr
+SE zur gleichförmigen Bewegung 
+Durchschnittsgeschwindigkeit 
+Vorbereitung 3.Klassenarbeit 
+3.Kiassenarbeit 
+LB 3; physikalische Größe Temperatur|13
+Aufbau des Flüssigkeitsthermometers
+SE Temperaturmessung und v-t- Diagramm
+Aggregatzustände; Teilchenvorstellung als Modell
+Unterschiede zwischen festen, flüssigen u. Asförmigen Körpern
+KK; Schmelzen und Erstarren 
+Verdampfen und Kondensieren 
+Umwandlungstemperaturen 
+Verdunsten und Kondensieren 
+Volumenänderung fester Körper 
+Volumenänderung flüssiger Körper
+Volumenänderung gasförmiger Körper
+Anomalie des Wassers 
+Ausdehnung beim Erstarren 
+Vorbereitung 4.Klassenarbeit 
+4.Kiassenarbeit 
+LB 4; Bedeutung des elektrischen Stromes|5
+Wirkungen des elektrischen Stromes
+Leiter und Isolatoren 
+Bestandteile Stromkreis, Schaltpläne
+Einfacher Stromkreis mit SE 
+Verzweigte und unverzweigte Stromkreise mit SE
+Wahlpflicht
+Wahlpflicht
