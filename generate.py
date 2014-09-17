@@ -44,8 +44,12 @@ def DayOfWeek(d):
 FreeDaysDate = []
 FreeDaysName = []
 HolidayName = ""
+curLineNumb = 0
 for i in range(7, len(lines)):
-    if (i+1 < len(lines) and ((lines[i+1])[10:]).strip()==''):  #Holidays
+    curLineNumb = i
+    if (lines[i].strip()==""):
+        break;
+    if (i+1 < len(lines) and ((lines[i+1])[10:]).strip()=='' and ((lines[i+1])).strip()<>''):  #Holidays
         DateTmp = (lines[i].split()[0]).split('.')
         StartHol = datetime.date(int(DateTmp[0]), int(DateTmp[1]), int(DateTmp[2]))
         
@@ -70,16 +74,13 @@ for i in range(7, len(lines)):
         HolidayName = (lines[i])[10:].strip()
         FreeDaysDate.append(DateHol)
         FreeDaysName.append(HolidayName)
-    
+curLineNumb+=1
 #=====================
 # Load topics
-infileTopics = open(sys.argv[2],"r")
-linesTopics = infileTopics.readlines()
-infileTopics.close()
 topics = []
 topicsCommon = []
-for i in range(len(linesTopics)):
-    lineStrip = linesTopics[i].strip()
+for i in range(curLineNumb,len(lines)):
+    lineStrip = lines[i].strip()
     if (len(lineStrip.split('|'))>1):
         topics.append((lineStrip.split('|'))[0].strip())
         topicsCommon.append((lineStrip.split('|'))[1].strip())
