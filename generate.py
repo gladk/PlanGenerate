@@ -132,7 +132,34 @@ for i in range(6):
     outputGenCalendar+=lines[i]
 
 outputGenCalendar+="N;\tWeek;\tWeekAB;\tDate;\tFreeDay;\tDoW;\tHrs;\tTopic\n" 
-outputTEX='\lhead{%s %sKl, 2014/2015}\n\
+outputTEX='\n\
+\documentclass[DIV15, 14pt,a4paper]{scrartcl}\n\
+\usepackage{xltxtra}\n\
+\usepackage{fontenc}\n\
+\n\
+\usepackage[ngerman]{babel}\n\
+\usepackage{graphicx}\n\
+\usepackage{lmodern}\n\
+\usepackage{amsmath}\n\
+\usepackage{units}\n\
+\usepackage{nicefrac}\n\
+\usepackage{SIunits}\n\
+\usepackage{ucs}\n\
+\usepackage{algorithmic}\n\
+\usepackage[table,svgnames]{xcolor}\n\
+\usepackage{placeins}\n\
+\usepackage{fancyhdr}\n\
+\usepackage{indentfirst}\n\
+\usepackage{lastpage}\n\
+\usepackage{enumerate}\n\
+\usepackage{hyperref}\n\
+\usepackage{longtable}\n\
+\usepackage{tabu}\n\
+\n\
+\pagestyle{fancy}\n\
+\n\
+\n\
+\lhead{%s %sKl, 2014/2015}\n\
 \n\
 \\begin{document}\n\
   \\begin{longtabu} to \linewidth {|l|l|X|l|}\n\
