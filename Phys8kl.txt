@@ -1,0 +1,96 @@
+#Title          Physik
+#Class          8
+#Schedule       4ab 4ab
+#StartYearWeek  2014.09.01
+#EndYearWeek    2015.07.13
+#
+#Holidays
+2014.09.01  Unterrichtsfreier Tag
+2014.10.03  Tag der Deutschen Einheit
+2014.10.20  Herbstferien
+2014.10.31
+2014.10.31  Reformationstag
+2014.11.19  Buß- und Bettag
+2014.12.22  Weihnachtsferien
+2015.01.02
+2014.12.25  1. Weihnachtstag
+2014.12.26  2. Weihnachtstag
+2015.01.01  Neujahr
+2015.02.09  Winterferien
+2015.02.20  
+2015.04.02  Osterferien
+2015.04.10
+2015.04.03  Karfreitag
+2015.04.06  Ostermontag
+2015.05.01  Tag der Arbeit
+2015.05.14  Christi Himmelfahrt
+2015.05.15  Pfingstferien
+2015.05.25  Pfingstmontag
+
+Einführung, Belehrung, Arbeitsmittel 
+Lb 1; Wiederholung Aufbau der Metalle, Stromstärke und Spannung|15
+Zusammenhang zwischen Stromsthrke und Spannung im SE
+Ohmsches Gesetz; Übungen 
+SE: Gilt für die Glühlampe das Ohmsche Gesetz? 
+Physikalische Größe elektrische Widerstand 
+Berechnen von Widerständen 
+Bestimmen des Widerstandes unterschiedlicher Bauelemente SE
+LK; Abhängigkeit des Widerstandes von der Temperatur
+Abhängigkeit des Widerstandes von der Länge mit SE (je,desto ... )
+Abhängigkeit des Widerstandes vom Querschnitt mit SK (je ..., desto ... )
+Abhängigkeit des Widerstandes vom Stoff 
+Übungen 
+Anwendung der Kenntnisse, technische Widerstände
+Festwiderstände, verstellbare Widerstände 
+SE Helligkeitssteuerung einer Glühlampe 
+Kurzschluss und Sicherung 
+Vorbereitung Klassenarbeit 
+1. Klassenarbeit 
+LB 2; Druckarten, Druckbegriff|10
+Auflagedruck, Einfluss von Kraft und Fläche 
+Praktische Anwendungen 
+LK; Druck in eingeschlossenen Gasen 
+Kolbendruck, Eigenschaften, Möglichkeiten der Änderung
+Druck eingeschlossener Flüssigkeiten; Vergleich mit Gasen 
+Schweredruck in Flüssigkeiten (Ursache, Wirkungen, Abhängigkeiten)
+Anwendungen zum Schweredruck in Flüssigkeiten 
+Luftdruck, Eigenschaften, Experimente zum Nachweis 
+Luftdruck, Anwendungen 
+LK, Auftriebskraft mit SE 
+Auftriebskraft, Ursache und Abhängigkeiten 
+Sinken, Schweben, Steigen 
+FVU 
+FVU 
+Vorbereitung Klassenarbeit 
+2. Klassenarbeit 
+LB 3;, Wiederholung Temperatur|25
+Zusammenhang zwischen Temperatur und Teilchenbewegung
+Kennen von Temperaturskalen 
+Projekt Zukunft 
+Praktikum
+Absolute Temperatur 
+Wärme und Wärmequellen 
+Wärmeleitung 
+Wärmestrahlung 
+Wärmeströmung 
+Wärmedämmung 
+LK 
+Zusammenhang zwischen Wärme und Temperaturdiffere
+Zusammenhang zwischen Wärme und Masse mit SE
+Zusammenhang von Wärme und Stoff
+Physikalische Größe Wärme $Q=m \cdot c \cdot \Delta T$
+Festigen, Anwenden 
+Vorbereitung Klassenarbeit 
+3. Klassenarbeit 
+Aufbau und Wirkungsweise des Viertakt-Ottomotors
+Aufbau und Wirkungsweise des Viertakt-Dieselmotors
+LK, Vmweltverträglichkeit und Wirtschaftlichkeit
+Gestalten eines Projektes 
+Gestalten eines Projektes 
+Gestalten eines Projektes 
+Vorbereitung Klassenarbeit 
+4. Klassenarbeit 
+WPB 
+WPB 
+WPB 
+WPB
