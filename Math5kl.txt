@@ -5,16 +5,21 @@
 #EndYearWeek    2015.07.13
 #
 #Holidays
-2014.09.01  Unterrichtsfreier Tag
-2014.09.02  Unterrichtsfreier Tag
+2014.09.01  Einschulungstag 5 Kl.
+2014.09.02  Einschulungstag 5 Kl.
 2014.09.22  Sporttag
+2014.09.25  K
+2014.09.26  
+2014.09.30  X (FVU)
+2014.10.02  
 2014.10.03  Tag der Deutschen Einheit
-2014.10.15  Wandertag
 2014.10.20  Herbstferien
 2014.10.31
 2014.10.31  Reformationstag
 2014.11.17  Unterrichtsfreier Tag (ADAC)
 2014.11.19  Buß- und Bettag
+2014.12.01  Weihnachten?
+2014.12.05  Weihnachtsfeiern
 2014.12.10  Weihnachtskonzert
 2014.12.22  Weihnachtsferien
 2015.01.02
@@ -32,8 +37,9 @@
 2015.05.14  Christi Himmelfahrt
 2015.05.15  Pfingstferien
 2015.05.25  Pfingstmontag
+2015.06.19  NOTENSTOP!
 
-Natürliche Zahlen|35
+LB 1, Natürliche Zahlen|40 (35)
 Einführung. Wiederholung der natürlichen Zahlen
 Darstellen von nat. Zahlen auf dem Zahlenstral
 Vergleichen und Ordnen nat. Zahlen
@@ -42,53 +48,64 @@ Große Zahlen
 Runden und Näherungswerte
 Runden und Näherungswerte
 Bist du fit?
-LK. Darstellen und Ordnen natürlicher Zahlen
+_LK. Darstellen und Ordnen natürlicher Zahlen
 Addieren und Subtrahieren nat.Zahlen
 Multiplizieren und Dividieren nat.Zanlen
 Multiplizieren mit und Dividieren durch Zehenerpotenzen
-Vielfache,Teiler, Teilbarkeitsregeln
-Primzahlen
-Quadratzahlen
+Vielfache, Teiler, Teilbarkeitsregeln
+Primzahlen Quadratzahlen
 Potenzen nat.Zahlen
+FVU Erfassen, Darstellen und Auswerten von Daten
 Quadratwurzeln
-Bist du fit?
+Bist du fit? Vorbereitung zur Klassenarbeit
 1. KA Natürliche Zahle
 Vorrangregeln
-Vorrangregeln,Rechengesetze und Rechenvorteile
-Vorrangregeln,Rechengesetze und Rechenvorteile
+Vorrangregeln, Rechengesetze und Rechenvorteile
+Vorrangregeln, Rechengesetze und Rechenvorteile
 Schriftliches Addieren und Subtrahieren
 Schriftliches Addieren und Subtrahieren
 Schriftliches Multiplizieren
 Schriftliches Multiplizieren
 Schriftliches Dividieren ohne und mit Rest
-Schriftliches Multiplizieren
+Schriftliches Dividieren ohne und mit Rest
+Schriftliche Rechenverfahren
+Schriftliche Rechenverfahren
+_LK. Schriftliche Rechenverfahren 
 Terme, Gleichungen und Ungleichungen
 Lösung und Lösungsmenge
 Lösen von Gleichungen und Ungleichungen
-Gleichungen und Ungleichungen
-Lösung und Lösungsmenge
 Lösen von Gleichungen und Ungleichungen
-Bist du fit?
-LK Rechengesetze. Gleichungen und Ungleichungen 2.
-Anteile und Größen                             
+Lösen von Gleichungen und Ungleichungen
+Römische Zahlenschreibweise
+Gemischte Aufgaben
+Gemischte Aufgaben
+_LK. Gleichungen und Ungleichungen
+LB 2. Anteile und Größen|50 (40)
+Bruchbegriff
+Bruchbegriff
 Bruchbegriff
 Darstellen von Brüchen auf dem Zahlenstrahl
 Darstellen von Brüchen auf dem Zahlenstrahl
 Vergleichen und Ordnen gleichnamiger Brüche
+Vergleichen und Ordnen gleichnamiger Brüche
 Addieren und Subtrahieren Gleichnamiger Brüche
 Addieren und Subtrahieren Gleichnamiger Brüche
+Addieren und Subtrahieren Gleichnamiger Brüche
 Vervielfachen und Teilen von Brüchen
 Vervielfachen und Teilen von Brüchen
 Vervielfachen und Teilen von Brüchen
-2. KA Bruchbegriff
-Dezimalbrüche
+Vorbereitung KA
+_2. KA Bruche
+Dezimalbrüche. Erweiterung der Stellentafel
+Dezimalbrüche. Erweiterung der Stellentafel
 Dezimalbrüche und Zehnerbrüche
 Darstellen von Dezimalbrüchen auf dem Zahlenstrahl
 Darstellen von Dezimalbrüchen auf dem Zahlenstrahl
+Darstellen von Dezimalbrüchen auf dem Zahlenstrahl
 Prozentangaben
 Prozentangaben
-Vergleichen und Ordnen von Dezimalbrüchen
-Vergleichen und Ordnen von Dezimalbrüchen
+Prozentangaben
+Prozentangaben
 Runden von Dezimalbrüchen
 Runden von Dezimalbrüchen
 Runden von Dezimalbrüchen
@@ -97,14 +114,103 @@ Addieren und Subtrahieren von Dezimalbrüchen
 Addieren und Subtrahieren von Dezimalbrüchen
 Addieren und Subtrahieren von Dezimalbrüchen
 Addieren und Subtrahieren von Dezimalbrüchen
-LK Addieren und Subtrahieren von Dezimalbrüchen
-Verfielfachen mit und Teilen durch nat. Zahlen
-Verfielfachen mit und Teilen durch nat. Zahlen
-Verfielfachen mit und Teilen durch nat. Zahlen
-Verfielfachen mit und Teilen durch nat. Zahlen
-Verfielfachen mit und Teilen durch nat. Zahlen
-Zusammenfassung von Dezimalbrüchen
-Zusammenfassung von Dezimalbrüchen
-3. KA  Dezimalbrüche
-Erfassen, Darstellen und Auswerten von Daten
-Römische Zahlenschreibweise
+_LK. Dezimalbrüche. Addieren und Subtrahieren
+Verfielfachen mit und Teilen durch Zehnerpotenz
+Verfielfachen mit und Teilen durch Zehnerpotenz
+Verfielfachen mit  nat. Zahlen
+Verfielfachen mit  nat. Zahlen
+Verfielfachen mit  nat. Zahlen
+Teilen durch nat. Zahlen
+Teilen durch nat. Zahlen
+Teilen durch nat. Zahlen
+Teilen durch nat. Zahlen
+Gemischte Aufgaben
+Gemischte Aufgaben
+Gemischte Aufgaben
+Vorbereitung KA
+_3. KA Dezimalbrüche
+Ersassen, Darstellen und Auswerten von Daten
+Ersassen, Darstellen und Auswerten von Daten
+LB 3. Geometrische Grundformen|40 (30)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LB 4. Symmetrie und deckungsgleiche Figuren|30 (20)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LB 5. Wahlpflicht: Unsere Schule|10
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
