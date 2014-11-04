@@ -6,12 +6,14 @@
 #
 #Holidays
 2014.09.01  Unterrichtsfreier Tag
-2014.09.22  Sporttag
+2014.09.23  Sporttag
+2014.09.26  K
 2014.10.03  Tag der Deutschen Einheit
 2014.10.20  Herbstferien
 2014.10.31
 2014.10.31  Reformationstag
 2014.11.19  Buß- und Bettag
+2014.12.05  Weihnachtsfeiern
 2014.12.10  Weihnachtskonzert
 2014.12.22  Weihnachtsferien
 2015.01.02
@@ -26,12 +28,15 @@
 2015.04.03  Karfreitag
 2015.04.06  Ostermontag
 2015.05.01  Tag der Arbeit
-2015.05.08  Fest
+2015.05.08  25 Jahre Ohainschule
 2015.05.14  Christi Himmelfahrt
 2015.05.15  Pfingstferien
 2015.05.25  Pfingstmontag
+2015.05.29  Deutschprojekt
 2015.06.17  Klassenfahrt
-2015.07.09  FVU
+2015.06.19  NOTENSTOP!
+2015.07.09  FVU  "Burg Kriebstein"
+2015.07.10  Zeugnissausgabe
 
 Einführung
 Darstellen von Brüchen         
@@ -50,30 +55,161 @@ Kleinstes gemeinsames Vielfaches durch Primfaktorzerlegung
 Gleichnamigmachen von Brüchen
 Gleichnamigmachen von Brüchen
 Vergleichen und Ordnen Ungleichnamiger Brüche
-Vergleichen und Ordnen Ungleichnamiger Brüche
-Vergleichen und Ordnen Ungleichnamiger Brüche
 LK.Vergleichen und Ordnen ungleichnamiger Brüche 
 Addieren und Subtrachieren ungleichnamiger Brüche
 Addieren und Subtrachieren ungleichnamiger Brüche
 Addieren und Subtrachieren ungleichnamiger Brüche
 Multiplizieren von Brüchen
-Multiplizieren von Brüchen
 Dividieren von Brüchen
-Dividieren von Brüchen
-Verhältnisgleihung
+Dividieren von Brüchen. Verhältnisgleihung
 Multiplizieren und Dividieren von Brüchen
+Multiplizieren von Dezimalbrüchen
+Dividieren von Dezimalbrüchen
 Vorbereitung zu KA.
-KA.Brüche
+_1. KA Brüche
+Multiplizieren von Dezimalbrüchen
 Multiplizieren und Dividieren von Dezimalbrüchen
-Multiplizieren und Dividieren von Dezimalbrüchen
-Multiplizieren und Dividieren von Dezimalbrüchen
-Wahlpflicht. Mathematische Spiele
-Rechengesetze
-Rechengesetze
-Gemischte Aufgaben
-Gemischte Aufgaben
-Gemischte Aufgaben
-LK. Dezimalbrüche
-Wahlpflicht. Mathematische Spiele
 Umwandlung gemeiner Brüche in Dezimalbrüche und umgekehrt
-LB 2. Zuordnungen in der Umwelt|25
+Mathematische Spiele
+Umwandlung gemeiner Brüche in Dezimalbrüche und umgekehrt
+Rechengesetze
+Ausführbarkeit von Rechenoperationen
+Darstellen von Dezimalbrüchen auf dem Zahlenstrahl
+Darstellen von Dezimalbrüchen auf dem Zahlenstrahl
+Gemischte Aufgaben
+Gemischte Aufgaben
+Gemischte Aufgaben
+Gemischte Aufgaben
+_LK. Dezimalbrüche
+LB 2. Zuordnungen in der Umwelt|34-1(25)
+Darstellen und Untersuchen von Zuordnungen         
+Darstellungsarten
+Pfeildiagramm und Tabelle
+Pfeildiagramm und Tabelle
+Koordinatensystem
+Koordinatensystem
+Koordinatensystem
+_LK Darstellen und Untersuchen von Zuordnungen
+Direkt proportionale Zuordnungen
+Eigenschaften direkt proportionaler Zuordnungen
+Grafische Darstellung
+Grafische Darstellung
+Quotientengleichheit
+Quotientengleichheit
+Grafische Darstellung. Quotientengleichheit
+Inderekt proportionale Zuordnungen
+Eigenschaften indirekt proportionaler Zuordnungen
+Grafische Darstellung
+Grafische Darstellung
+Produktgleichheit
+Produktgleichheit
+Grafische Darstellung. Produktgleichheit
+Gemischte Aufgaben
+_LK Direkt und indirekt proportionale Zuordnungen
+Sachaufgaben zu direkt und indirekt pr. Zuordnungen
+Sachaufgaben zu direkt und indirekt pr. Zuordnungen
+Sachaufgaben zu direkt und indirekt pr. Zuordnungen
+Sachaufgaben zu direkt und indirekt pr. Zuordnungen
+Sachaufgaben zu direkt und indirekt pr. Zuordnungen
+Gemischte Aufgaben
+Gemischte Aufgaben
+Gemischte Aufgaben
+Vorbereitung zu KA.
+_2. KA Zuordnungen in der Welt
+LB 3. Geometrie in der Ebene|39 (30)
+Winkel. Arten. Messen. Zeichnen
+Winkel an einander schneidenden Geraden
+Nebenwinkel. Scheitelwinkel
+Stufenwinkel und Wechselwinkel
+Übungen
+Geometrische Grundkonstruktionen
+Halbieren einer Strecke. Mittelsenkrechte
+Winkelhalbierende
+Winkelhalbierende
+Senkrechte
+Senkrechte
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LB 4. Geometrische Körper|29+1 (20)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LB 5. Mathematik im Alltag|15
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LB 6. Wahlpflicht: Erfassen und Auswerten von Daten|9 (10) 
+-
+-
+Arithmetisches Mittel
+-
+-
+-
+-
+-
+-
+-

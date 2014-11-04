@@ -141,7 +141,7 @@ outputTEX='\n\
 \usepackage{xltxtra}\n\
 \usepackage{fontenc}\n\
 \n\
-\usepackage[ngerman]{babel}\n\
+\usepackage[ngerman,russian]{babel}\n\
 \usepackage{graphicx}\n\
 \usepackage{lmodern}\n\
 \usepackage{amsmath}\n\
@@ -178,7 +178,7 @@ topicId = 0
 WeekN = 1
 WeekAB = 'a'
 Hrs = 0
-colorWeek = '\cellcolor{black!5}'
+colorWeek = '\cellcolor{black!15}'
 colorWeekCur = ''
 
 for i in range(len(createdCal)):
@@ -186,7 +186,6 @@ for i in range(len(createdCal)):
         outputTEX+="\multicolumn{3}{|c|}{\\textbf{%s}} & \\textbf{%s} \\\\ \n\
     \hline\n"%(topics[topicId], topicsCommon[topicId])
         topicId+=1
-        continue
     if (i<>0 and createdCal[i].isocalendar()[1] <> createdCal[i-1].isocalendar()[1]):
         WeekN+=1
         if (WeekAB=='a'):

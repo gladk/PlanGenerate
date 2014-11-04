@@ -5,22 +5,29 @@
 #EndYearWeek    2015.07.13
 #
 #Holidays
-2014.09.01  Unterrichtsfreier Tag
 2014.09.22  Sporttag
+2014.09.25  K
+2014.09.26  
 2014.10.03  Tag der Deutschen Einheit
 2014.10.16  Unterrichtsfreier Tag (Flöha)
+2014.10.17  Projekt „Mädchenrecht“
 2014.10.20  Herbstferien
 2014.10.31
 2014.10.31  Reformationstag
 2014.11.19  Buß- und Bettag
+2014.12.01  Weihnachten?
+2014.12.05  Weihnachten?
 2014.12.10  Weihnachtskonzert
-2014.12.17  Unterrichtsfreier Tag (BO)
+2014.12.15  BO Brand-Erbisdorf
+2014.12.19
 2014.12.22  Weihnachtsferien
 2015.01.02
 2014.12.25  1. Weihnachtstag
 2014.12.26  2. Weihnachtstag
 2015.01.01  Neujahr
-2015.01.23  Unterrichtsfreier Tag (Dresden)
+2015.01.23  Ausbildungsmesse Dresden
+2015.02.03  «Meine Zukunft»
+2015.02.06
 2015.02.09  Winterferien
 2015.02.20  
 2015.02.26  Kompetenztest
@@ -33,46 +40,117 @@
 2015.05.14  Christi Himmelfahrt
 2015.05.15  Pfingstferien
 2015.05.25  Pfingstmontag
+2015.06.19  NOTENSTOP!
+2015.07.10  Zeugnissausgabe
 
-Lernbereich 1: Wirtschaftliches Rechnen|24. 
+LB 1. Wirtschaftliches Rechnen|18 (24)
 Einführung. Wiederholung: Prozentbegriff und Prozentrechnung.
 Berechnen des Prozentwertes
 Berechnen des Grundwertes
 Berechnen des Prozentsatzes
-Prozentuale Veränderung. Vermehrung. LK
+_LK. Prozentuale Veränderung. Vermehrung.
 Prozentuale Veränderung. Verminderung
 Prozentuale Veränderung
 Berechnen des Prozentsatzes
 Prozentrechnung. Prozentuale Veränderung
 Vermischte Übungen zur Prozentrechnung
-LK. Prozentuale Veränderung
-Berechnen der Jahreszinsen
+_LK. Prozentuale Veränderung
 Berechnen der Jahreszinsen
 Berechnen des Kapitals und des Zinssatzes
-Berechnen des Kapitals und des Zinssatzes
 Berechnung von Tageszinsen
-Berechnung von Tageszinsen
-LK. Zinsen
+_LK. Zinsen
 Vergleichen Verschiedener Sparformen
-Vergleichen Verschiedener Sparformen
-Vermischte Übungen zur Zinsrechnung
-Vermischte Übungen zur Zinsrechnung
 Vorbereitung zur Klassenarbeit
-KA. Wirtschaftliches Rechnen
-Lernbereich 2: Formeln und Gleichungen|16 
-Aufstellen von Termen – Berechnen von Termwerten
-Struktur von Termen
+_1. KA  Wirtschaftliches Rechnen
+LB 2. Formeln und Gleichungen|17 (16)
+Aufstellen von Termen. Struktur von Termen 
+Aufstellen von Termen. Struktur von Termen 
 Lösen von Gleichungen. Umformungsregeln – Anwendung
 Lösen von Gleichungen. Umformungsregeln – Anwendung
 Anwenden der Umformungsregeln auf Gl der Form ax+b=c
 Anwenden der Umformungsregeln auf Gl der Form ax+b=c
 Übungen
-LK. Anwenden der Umformungsregeln 
+_LK. Anwenden der Umformungsregeln 
 Umstellen von Formeln
 Umstellen von Formeln
 Umstellen von Formeln
 Umstellen von Formeln
+Vermischte Übungen
 Vermischte Übungen
 Vermischte Übungen
 Vorbereitung zur Klassenarbeit
-KA. Formel und Gleichungen
+_2. KA  Formeln und Gleichungen
+LB 3. Vom Vieleck zum Kreis|25 (16)
+Regelmässige Vielecke. Achsensymmetrie
+Achsensymmetrie
+Drehsymmetrie
+Drehsymmetrie
+Eigenschaften regelmäßiger Vielecke
+Eigenschaften regelmäßiger Vielecke
+Kreis. Kreisornamente
+Kreis. Kreisornamente
+Strecken und Geraden am Kreis
+Strecken und Geraden am Kreis
+Umkreis eines regelmäßigen Vielecks
+Umkreis eines regelmäßigen Vielecks
+Winkel im Kreis
+Winkel im Kreis
+Winkel im Kreis
+Formel für den Umfang des Kreises. Kreiszahl
+Formel für den Umfang des Kreises. Kreiszahl
+Formel für den Flächeninhalt des Kreises
+Formel für den Flächeninhalt des Kreises
+Übungen
+Kreisring
+Gemischte Aufgaben
+Gemischte Aufgaben
+Vorbereitung zur Klassenarbeit
+_3. KA  Vom Vieleck zum Kreis
+LB 4. Kreiszylinder und Hohlzylinder|24 (16)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LB 5. Mathematik im Alltag|30 (28)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+LB 6. Wahlpflicht: Das Fahrrad|8
