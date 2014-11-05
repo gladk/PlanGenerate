@@ -159,6 +159,14 @@ outputTEX='\n\
 \usepackage{hyperref}\n\
 \usepackage{longtable}\n\
 \usepackage{tabu}\n\
+\usepackage{polyglossia}\n\
+\n\
+\setmainlanguage{german} \n\
+\setotherlanguage{russian}\n\
+\n\
+\setmainfont{Arial}\n\
+\\newfontfamily\\cyrillicfont{Arial}\n\
+\setmonofont{Courier New}\n\
 \n\
 \pagestyle{fancy}\n\
 \n\
