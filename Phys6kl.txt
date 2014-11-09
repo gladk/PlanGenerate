@@ -7,14 +7,13 @@
 #Holidays
 2014.09.01  Unterrichtsfreier Tag
 2014.09.22  Sporttag
-2014.09.25  K
+2014.09.25  Krank
 2014.09.26  
 2014.10.03  Tag der Deutschen Einheit
 2014.10.20  Herbstferien
 2014.10.31
 2014.10.31  Reformationstag
 2014.11.19  Buß- und Bettag
-2014.12.05  Weihnachten?
 2014.12.10  Weihnachtskonzert
 2014.12.22  Weihnachtsferien
 2015.01.02
@@ -53,19 +52,20 @@ Reflexion am Wölbspiegel
 SE zum Reflexionsgesetz 
 Hohlspiegel.Reflexion am Hohlspiegel 
 Reflexion des Lichtes. Zusammenfassung
-_KLK. Brechung des Lichtes. Brechungsgesetz.
+_KLK. Schatten. Reflexion am ebenen Spiegel. Einführung in die Lichtbrechung
 SE zum Brechungsgesetz
 Strahlenverlauf am Prisma
 Brechung des Lichtes. Kurz und knapp
 Optische Linsen. Bilder an Sammellinsen
 SE zur Bildentstehung am Sammellinsen
 Strahlenverlauf an Sammellinsen. Konstruktion von Bildern
-Konstruktion von Bildern.Scheinbare Bilder
+Konstruktion von Bildern. Scheinbare Bilder
+Konstruktion von Bildern. Scheinbare Bilder
 Bildentstehung bei Auge, Fotoapparat und Bildwerfer
 Vorbereitung der KA
 _1. KA Licht und seine Eigenschaften
 Mondphasen. Mond- und Sonnenfinsternisse
-LB 2.Bewegungen von Körpern, Dichte von Stoffen|17(14)
+LB 2. Bewegungen von Körpern, Dichte von Stoffen|17(14)
 Bewegungen von Körpern 
 Die physikalische Größe Geschwindigkeit
 Gleichförmige Bewegung (Zusammenhänge s, t und  v)

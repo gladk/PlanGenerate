@@ -1,4 +1,4 @@
-#Title          Physik
+#Title          Russisch
 #Class          6
 #Schedule       1b 1b 2ab 2ab
 #StartYearWeek  2014.09.01
@@ -11,7 +11,7 @@
 2014.10.31
 2014.10.31  Reformationstag
 2014.11.19  Buß- und Bettag
-2014.12.01  ???
+2014.12.01  Freien Tag
 2014.12.22  Weihnachtsferien
 2015.01.02
 2014.12.25  1. Weihnachtstag

@@ -8,7 +8,7 @@
 2014.09.01  Einschulungstag 5 Kl.
 2014.09.02  Einschulungstag 5 Kl.
 2014.09.22  Sporttag
-2014.09.25  K
+2014.09.25  Krank
 2014.09.26  
 2014.09.30  X (FVU)
 2014.10.02  
@@ -18,8 +18,8 @@
 2014.10.31  Reformationstag
 2014.11.17  Unterrichtsfreier Tag (ADAC)
 2014.11.19  Buß- und Bettag
-2014.12.01  Weihnachten?
-2014.12.05  Weihnachtsfeiern
+2014.12.01  Freien Tag
+2014.12.08  Wandertag
 2014.12.10  Weihnachtskonzert
 2014.12.22  Weihnachtsferien
 2015.01.02

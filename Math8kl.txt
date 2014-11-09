@@ -6,7 +6,7 @@
 #
 #Holidays
 2014.09.22  Sporttag
-2014.09.25  K
+2014.09.25  Krank
 2014.09.26  
 2014.10.03  Tag der Deutschen Einheit
 2014.10.16  Unterrichtsfreier Tag (Flöha)
@@ -15,8 +15,8 @@
 2014.10.31
 2014.10.31  Reformationstag
 2014.11.19  Buß- und Bettag
-2014.12.01  Weihnachten?
-2014.12.05  Weihnachten?
+2014.12.01  Freien Tag
+2014.12.08  Wandertag
 2014.12.10  Weihnachtskonzert
 2014.12.15  BO Brand-Erbisdorf
 2014.12.19
@@ -82,6 +82,7 @@ Vorbereitung zur Klassenarbeit
 _2. KA  Formeln und Gleichungen
 LB 3. Vom Vieleck zum Kreis|25 (16)
 Regelmässige Vielecke. Achsensymmetrie
+Achsensymmetrie
 Achsensymmetrie
 Drehsymmetrie
 Drehsymmetrie
@@ -153,4 +154,20 @@ LB 5. Mathematik im Alltag|30 (28)
 -
 -
 -
+-
+-
+-
+-
+-
+-
+-
+-
 LB 6. Wahlpflicht: Das Fahrrad|8
+-
+-
+-
+-
+-
+-
+-
+-

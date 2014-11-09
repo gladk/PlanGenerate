@@ -7,13 +7,12 @@
 #Holidays
 2014.09.01  Unterrichtsfreier Tag
 2014.09.23  Sporttag
-2014.09.26  K
+2014.09.26  Krank
 2014.10.03  Tag der Deutschen Einheit
 2014.10.20  Herbstferien
 2014.10.31
 2014.10.31  Reformationstag
 2014.11.19  Buß- und Bettag
-2014.12.05  Weihnachtsfeiern
 2014.12.10  Weihnachtskonzert
 2014.12.22  Weihnachtsferien
 2015.01.02
@@ -94,6 +93,7 @@ Direkt proportionale Zuordnungen
 Eigenschaften direkt proportionaler Zuordnungen
 Grafische Darstellung
 Grafische Darstellung
+Grafische Darstellung (Quotientengleichheit?)
 Quotientengleichheit
 Quotientengleichheit
 Grafische Darstellung. Quotientengleichheit

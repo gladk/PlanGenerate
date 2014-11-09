@@ -63,7 +63,7 @@ Druckarten. Auflagedruck, Einfluss von Kraft und Fläche
 Praktische Anwendungen 
 Druck in eingeschlossenen Gasen
 Übungen
-_KLK. Druck eingeschlossener Flüssigkeiten
+KLK. Druck eingeschlossener Flüssigkeiten
 Übertragen und Vergrößern von Kräften
 Anwendungen. Übungen
 Schweredruck in Flüssigkeiten(Ursache,Wirkungen,Abhängigkeiten)
